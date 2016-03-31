@@ -14,4 +14,11 @@ public class MainActivity extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_activity);
     }
+    protected void onstop(){
+
+    }
+
+    protected void destory(){
+
+    }
 }
