@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * Created by 操建 on 2016/3/29.  操建你是猪吗
 
  */
 public class MainActivity extends Activity{
